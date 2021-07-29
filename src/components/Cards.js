@@ -15,6 +15,8 @@ function Cards() {
                             label='Repository'
                             path='https://github.com/ViridianCitrus/Residential-School-Visualization'
                         />
+                    </ul>
+                    <ul className="cards__items">
                         <CardItem
                             src="images/img-2/jpg"
                             text="Sheemo Bot - Lead Developer - Waterloo Engineering Hackathon 2021"
