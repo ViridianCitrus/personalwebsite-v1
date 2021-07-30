@@ -3,15 +3,22 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import Home from './components/pages/Home';
+import Cards from './components/Cards';
+import HeroSection from './components/HeroSection'
+import Footer from './components/Footer'
+import { useEffect, } from 'react';
+import { useLocation } from 'react-router-dom'
+
 function App() {
   return (
     <>
       <Router>
         <Navbar />
-        <Switch>
-          <Route path='/' exact component={Home} />
-        </Switch>
+        <HeroSection />
+        <Cards id="projects" />
+        <Footer id="contact" />
       </Router>
+
     </>
   );
 }
