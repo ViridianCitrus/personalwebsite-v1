@@ -13,9 +13,7 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar />
         <HeroSection />
-        <Cards id="projects" />
         <Footer id="contact" />
       </Router>
 
