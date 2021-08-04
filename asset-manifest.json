@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/personal-website-v1/static/css/main.cfd75106.chunk.css",
-    "main.js": "/personal-website-v1/static/js/main.eeea7165.chunk.js",
-    "main.js.map": "/personal-website-v1/static/js/main.eeea7165.chunk.js.map",
-    "runtime-main.js": "/personal-website-v1/static/js/runtime-main.fa64f6ec.js",
-    "runtime-main.js.map": "/personal-website-v1/static/js/runtime-main.fa64f6ec.js.map",
-    "static/js/2.60c19174.chunk.js": "/personal-website-v1/static/js/2.60c19174.chunk.js",
-    "static/js/2.60c19174.chunk.js.map": "/personal-website-v1/static/js/2.60c19174.chunk.js.map",
-    "index.html": "/personal-website-v1/index.html",
-    "static/css/main.cfd75106.chunk.css.map": "/personal-website-v1/static/css/main.cfd75106.chunk.css.map",
-    "static/js/2.60c19174.chunk.js.LICENSE.txt": "/personal-website-v1/static/js/2.60c19174.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/personal-website-v1/static/media/Background.a051b667.jpg",
-    "static/media/EngHack.dc198e53.JPG": "/personal-website-v1/static/media/EngHack.dc198e53.JPG",
-    "static/media/Growth.be6a7b2b.JPG": "/personal-website-v1/static/media/Growth.be6a7b2b.JPG",
-    "static/media/HHA.c0cf3f38.png": "/personal-website-v1/static/media/HHA.c0cf3f38.png"
+    "main.css": "/personalwebsite-v1/static/css/main.31bdae05.chunk.css",
+    "main.js": "/personalwebsite-v1/static/js/main.eeea7165.chunk.js",
+    "main.js.map": "/personalwebsite-v1/static/js/main.eeea7165.chunk.js.map",
+    "runtime-main.js": "/personalwebsite-v1/static/js/runtime-main.97cdfe06.js",
+    "runtime-main.js.map": "/personalwebsite-v1/static/js/runtime-main.97cdfe06.js.map",
+    "static/js/2.60c19174.chunk.js": "/personalwebsite-v1/static/js/2.60c19174.chunk.js",
+    "static/js/2.60c19174.chunk.js.map": "/personalwebsite-v1/static/js/2.60c19174.chunk.js.map",
+    "index.html": "/personalwebsite-v1/index.html",
+    "static/css/main.31bdae05.chunk.css.map": "/personalwebsite-v1/static/css/main.31bdae05.chunk.css.map",
+    "static/js/2.60c19174.chunk.js.LICENSE.txt": "/personalwebsite-v1/static/js/2.60c19174.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/personalwebsite-v1/static/media/Background.a051b667.jpg",
+    "static/media/EngHack.dc198e53.JPG": "/personalwebsite-v1/static/media/EngHack.dc198e53.JPG",
+    "static/media/Growth.be6a7b2b.JPG": "/personalwebsite-v1/static/media/Growth.be6a7b2b.JPG",
+    "static/media/HHA.c0cf3f38.png": "/personalwebsite-v1/static/media/HHA.c0cf3f38.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa64f6ec.js",
+    "static/js/runtime-main.97cdfe06.js",
     "static/js/2.60c19174.chunk.js",
-    "static/css/main.cfd75106.chunk.css",
+    "static/css/main.31bdae05.chunk.css",
     "static/js/main.eeea7165.chunk.js"
   ]
 }
